@@ -1,0 +1,4 @@
+Nombre: Camila Yahed 
+Apellidos: Vallejos Reyes
+Edad: 17
+Carrera: Ing. Sistemas
